@@ -1,0 +1,38 @@
+.stickyNote {
+  width: 100px;
+  height: 100px;
+  background-color: "red";
+}
+#content-container {
+  width: 80%;
+  height: 200px;
+  background-color: "red";
+  color: red;
+  border: 1px solid red;
+  display: flex; /* or inline-flex */
+}
+
+#ide {
+  width: 100px;
+  height: 100px;
+  background-color: "red";
+  color: red;
+  border: 1px solid red;
+  margin: 10px;
+}
+
+td {
+  border: solid 2px lightgrey;
+}
+
+th {
+  border: solid 2px lightgrey;
+}
+
+#countdown {
+  width: 100px;
+  background-color: lightgrey;
+  color: blue;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 40px;
+}
