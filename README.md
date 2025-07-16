@@ -1,31 +1,21 @@
-Welcome to Glitch
-=================
+# Brainstorm Relay – Collaborative Idea Sharing App
 
-Click `Show` in the header to see your app live. Updates to your code will instantly deploy and update live.
+This app is a digital version of a classic brainstorming method where a piece of paper is passed around, and each participant adds to an idea before passing it along. The process continues until a complete idea is formed.
 
-**Glitch** is the friendly community where you'll build the app of your dreams. Glitch lets you instantly create, remix, edit, and host an app, bot or site, and you can invite collaborators or helpers to simultaneously edit code with you.
+## Features
 
-Find out more [about Glitch](https://glitch.com/about).
+- User registration and login
+- Create and send a message to the next participant
+- Read and continue ideas from other users
+- Automatically forward the message through the chain
+- Export the final result as a PDF and receive it via email
 
+## Use Case
 
-Your Project
-------------
+This app is designed to support creative collaboration in classrooms, workshops, or remote sessions. By passing ideas along digitally, participants can contribute asynchronously and explore unexpected directions.
 
-On the front-end,
-- edit `public/client.js`, `public/style.css` and `views/index.html`
-- drag in `assets`, like images or music, to add them to your project
+## 📚 Note
 
-On the back-end,
-- your app starts at `server.js`
-- add frameworks and packages in `package.json`
-- safely store app secrets in `.env` (nobody can see this but you and people you invite)
-
-This app has a database!
-- this app uses sqlite but you can power your apps with [a number of other storage options](https://glitch.com/storage)
-- `sqlite.db` is created and put into the `.data` folder, a hidden directory whose contents aren’t copied when a project is remixed. you can see the contents of `.data` in the console under "Logs"
+This project was developed as part of a university course and was built in collaboration with fellow students.
 
 
-Made by [Glitch](https://glitch.com/)
--------------------
-
-\ ゜o゜)ノ
