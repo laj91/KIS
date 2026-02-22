@@ -17,7 +17,7 @@
     "node": "8.x"
   },
   "devDependencies": {
-    "nodemon": "^1.19.4"
+    "nodemon": "^3.1.14"
   },
   "repository": {
     "url": "https://glitch.com/edit/#!/brainwriting-v1"
